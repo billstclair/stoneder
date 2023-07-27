@@ -1,0 +1,12 @@
+@import url(tables.css);
+body {
+}
+.x3 {
+    font-size: 300%;
+}
+.bold {
+    font-weight: bold;
+}
+.center {
+    margin: auto;
+}
