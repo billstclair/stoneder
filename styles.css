@@ -1,6 +1,12 @@
 @import url(tables.css);
 body {
 }
+.x15 {
+    font-size: 150%;
+}
+.x2 {
+    font-size: 200%;
+}
 .x3 {
     font-size: 300%;
 }
