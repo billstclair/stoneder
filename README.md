@@ -1,4 +1,4 @@
-# stonedir.club
+# stoneder.club
 
 Backup repository for https://stoneder.club
 
